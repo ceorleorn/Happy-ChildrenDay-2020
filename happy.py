@@ -1,4 +1,3 @@
-import random
 import time
 print('')
 print('作品开源在https://github.com/snbck/Happy-ChildrenDay-2020')
